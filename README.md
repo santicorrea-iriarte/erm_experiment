@@ -2,7 +2,7 @@
 ## LIMPIADOR DE DATOS PSYCHOPY - EXPERIMENTO ERM
 
 **Developed by / Desarrollado por:** Santiago Correa-Iriarte  
-**Laboratory / Laboratorio:** MPAGER Lab  
+**Laboratory / Laboratorio:** MPAGER Lab, Universitat Jaume I de Castelló, Spain.  
 **Contact / Contacto:** scorrea@uji.es
 
 ### Research Team / Equipo de Investigación:
